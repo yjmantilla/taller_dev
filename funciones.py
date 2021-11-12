@@ -6,3 +6,6 @@ def vale():
    for i in a:
       print(i)
    print('Vale linda')
+
+def taller():
+   print('taller')
