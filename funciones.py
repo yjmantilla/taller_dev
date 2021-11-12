@@ -5,6 +5,10 @@ def sumar(a,b):
 def yorguin():
    print('yorguin')
 
+
+def juliana():
+   print('Juliana')
+
 def Luisa():
        print('Luisa')
 def Jesica():
