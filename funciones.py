@@ -5,6 +5,8 @@ def sumar(a,b):
 def yorguin():
    print('yorguin')
 
+def jfochoa():
+    print("John Ochoa")
 def Antonia():
       print('Antonia')
 def yeimmy():
