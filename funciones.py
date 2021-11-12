@@ -1,6 +1,9 @@
 def yorguin():
    print('yorguin')
 
+def eliana():
+       print('eliana')
+       
 def vale():
    a='VALENTINA'
    for i in a:
