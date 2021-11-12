@@ -1,5 +1,6 @@
-import sys,os
-sys.path.insert(0, os.path.abspath('...'))
-
 import paquete.funciones as fun
 print(fun.Luisa())
+
+
+def test_suma():
+    assert fun.sumar(5,4) == 9
