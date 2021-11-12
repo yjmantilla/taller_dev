@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(name='paquete',
 version='0.1',
-description='The funniest joke in the world',
-url='http://github.com/storborg/funniest',
-author='Flying Circus',
+description='el paquete del taller',
+url='https://github.com/yjmantilla/taller_dev',
+author='Yorguin',
 author_email='flyingcircus@example.com',
-packages=['funniest'], # este es el nombre de la carpeta del paquete)
+packages=['paquete'],)
