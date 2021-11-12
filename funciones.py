@@ -5,6 +5,8 @@ def sumar(a,b):
 def yorguin():
    print('yorguin')
 
+def Luisa():
+       print('Luisa')
 def Jesica():
        print('Hola')
 def veronica():
